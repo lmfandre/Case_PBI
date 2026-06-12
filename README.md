@@ -38,6 +38,3 @@ O projeto demonstra a aplicação prática de Power BI na construção de soluç
 
 
 <img width="1301" height="731" alt="image" src="https://github.com/user-attachments/assets/06d8dc28-743a-4d01-b4a9-03d25866cfe3" />
-
-
-<img width="1301" height="731" alt="image" src="https://github.com/user-attachments/assets/677c9d67-779b-4cb9-ab6e-2124f189d680" />
